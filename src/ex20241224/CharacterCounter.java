@@ -1,6 +1,8 @@
+package ex20241224;
+
 import java.util.Scanner;
 
-public class Main {
+public class CharacterCounter {
 
     public static int solutoin(String str, char t){
         int answer = 0;
