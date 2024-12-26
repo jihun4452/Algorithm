@@ -8,8 +8,11 @@ public class UpperLower {
         String answer="";
 
         for(char x:str.toCharArray()){
-            if(x == Character.toUpperCase(x)) answer+=Character.toLowerCase(x);
-            else answer +=Character.toUpperCase(x);
+            if(x == Character.toLowerCase(x)){
+                answer+=Character.toUpperCase(x);
+            }else {
+                answer+=Character.toLowerCase(x);
+            }
         }
         //상향된 for 문에 대해 더 알아보자
 
