@@ -1,4 +1,4 @@
-package ex20241227;
+package ex24.ex20241227;
 
 import java.util.ArrayList;
 import java.util.Scanner;

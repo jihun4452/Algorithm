@@ -1,4 +1,4 @@
-package ex20241224;
+package ex24.ex20241224;
 
 import java.util.Scanner;
 

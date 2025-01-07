@@ -1,4 +1,4 @@
-package ex20241228;
+package ex24.ex20241228;
 
 import java.util.Scanner;
 

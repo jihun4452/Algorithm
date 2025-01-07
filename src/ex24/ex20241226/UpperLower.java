@@ -1,4 +1,4 @@
-package ex20241226;
+package ex24.ex20241226;
 
 import java.util.Scanner;
 
@@ -27,7 +27,7 @@ public class UpperLower {
 }
 
 
-//package ex20241226;
+//package ex24.ex20241226;
 //
 //import java.util.Scanner;
 //
