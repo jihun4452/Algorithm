@@ -2,7 +2,7 @@ package ex20250107;
 
 import java.util.Scanner;
 
-public class Main {
+public class Number {
     public static int solution(String s) {
         int answer = 0;
         for(char x : s.toCharArray()) {
