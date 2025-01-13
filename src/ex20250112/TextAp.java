@@ -2,7 +2,7 @@ package ex20250112;
 
 import java.util.Scanner;
 
-public class Main {
+public class TextAp {
     public static String solution(String str) {
         String answer = "";
         str = str+ " ";
