@@ -2,7 +2,7 @@ package ex20250113;
 
 import java.util.Scanner;
 
-public class Main {
+public class RPSGame {
     public static String solution(int n, int[] a , int[] b) {
         String answer = "";
         for(int i=0; i<n; i++){
