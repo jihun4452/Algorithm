@@ -22,8 +22,5 @@ public class Main {
             arr[i] = sc.nextInt();
         }
         System.out.println(solution(n,arr));
-
-
-
     }
 }
