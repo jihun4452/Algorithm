@@ -6,13 +6,11 @@ public class Main {
     public static String soultion(String str) {
         String answer = "YES";
 
-        str = str.toLowerCase();
-
-        int len = str.length();
-        for(int i = 0; i < len/2; i++) {
-            if(str.charAt(i) != str.charAt(len-1-i)) {
+        String LowerStr = str.toLowerCase();
+        int LowerLen= LowerStr.length();
+        for(int i = 0; i < LowerLen/2; i++) {
+            if(LowerStr.charAt(i) != LowerStr.charAt(LowerLen-1-i)){
                 answer = "NO";
-                break;
             }
         }
 
